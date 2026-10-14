@@ -10,4 +10,5 @@ A web-based application designed to manage student placement workflows and predi
 ## How to Run Locally
 1. Clone the repository using git clone command
 2. Run the application using: python application.py
+   
 [Click here to view SPAP Repository](https://github.com/khushichandraj111/SPAP-Project)
